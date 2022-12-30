@@ -1,0 +1,23 @@
+{
+  "name": "protractor-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-data-provider": "^2.2.0",
+    "protractor": "^7.0.0"
+  },
+  "devDependencies": {
+    "protractor-jasmine2-html-reporter": "^0.0.7"
+  }
+}
